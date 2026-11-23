@@ -1,0 +1,64 @@
+name: Bug report
+description: Something in Zrzur does not work as it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. Zrzur is a volunteer project, so a reply can take a while.
+
+        **Found a security problem?** Do not open an issue. Follow `SECURITY.md` in this repository.
+        **Please leave out** passwords, tokens, email addresses and anything private about other people, also in screenshots.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem in a few sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Click ...
+        3. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      options:
+        - Web app (app.zrzur.com)
+        - Desktop app on Windows
+        - Desktop app on macOS
+        - Desktop app on Linux
+        - Phone browser
+        - Self-hosted instance
+        - Bot or SDK
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: For example 26.2.0. In the app, see Settings.
+  - type: input
+    id: language
+    attributes:
+      label: Interface language
+      description: For example Arabic, English or German.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, logs or links that help. Remove private data first.
