@@ -85,6 +85,7 @@ Thank you to everyone who supports Zrzur by sharing it, suggesting ideas, report
 - **Found a security problem?** Do not open an issue. Follow `SECURITY.md` in that repository.
 - **Want to change something?** Read `CONTRIBUTING.md` in that repository first.
 - **Anything else:** support@zrzur.com
+- ☕ Support the running costs: [ko-fi.com/zrzur](https://ko-fi.com/zrzur)
 
 ## Where Zrzur comes from
 
