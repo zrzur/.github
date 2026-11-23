@@ -23,7 +23,7 @@ Zrzur (زرزور) is an open-source home for friends and communities. You make 
 - **Bots and apps** through an open API, with slash commands, buttons and forms
 - **In the browser** and as an app for Windows, macOS and Linux
 
-Zrzur speaks dozens of languages. It was designed around Arabic and right-to-left from the first screen, so no language is an afterthought.
+In Arabic, every screen reads from right to left, and English and German get the same care. The app follows your device's language.
 
 <p dir="rtl" align="right">
 زرزور مكان مفتوح المصدر للأصدقاء والمجتمعات: سيرفرات بقنوات نصية وصوتية، ومشاركة الشاشة، وأدوار وصلاحيات. في المتصفح وعلى ويندوز وماك ولينكس، وبلغات كثيرة.
@@ -45,8 +45,19 @@ Zrzur speaks dozens of languages. It was designed around Arabic and right-to-lef
 | [sdk-js](https://github.com/zrzur/sdk-js) | Library for bots and apps | TypeScript |
 | [self-hosted](https://github.com/zrzur/self-hosted) | Run your own server | Docker Compose |
 | [website](https://github.com/zrzur/website) | The source of zrzur.com | Solid.js, Vite |
+| [sanad](https://github.com/zrzur/sanad) | Example bot, built with the SDK | JavaScript |
 
 Each has two branches: `main` is the released version, `beta` is what comes next.
+
+## Who builds Zrzur
+
+Zrzur is a volunteer, open-source project. I build it in my free time, alongside school, and I pay for the servers, hosting and services out of my own pocket, with no salary or guaranteed income.
+
+So an update, a fix or a reply can sometimes take a while. That's not because Zrzur doesn't matter to me. My time and resources are limited.
+
+Zrzur isn't a big company with a budget or a full-time team. It grows step by step, and I won't promise dates I can't keep.
+
+Thank you to everyone who supports Zrzur by sharing it, suggesting ideas, reporting bugs or contributing code. It means a lot. ❤️ If you want to help with the running costs: [Support Zrzur on Ko-fi](https://ko-fi.com/zrzur).
 
 ## Take part
 
@@ -69,4 +80,4 @@ Zrzur is built on **Stoat**, the open-source chat software that used to be calle
 
 The server and the apps are licensed under AGPL-3.0 or later, the library under MIT. Every repository keeps the original copyright notices in `NOTICE` and lists our changes in `MODIFICATIONS.md`.
 
-Zrzur is an independent, Arabic-first chat platform based on the open-source Stoat software (formerly Revolt), licensed under AGPL-3.0 or later. Zrzur is not affiliated with Stoat, stoat.chat or Revolt Platforms Ltd. Please do not report Zrzur issues to the Stoat team.
+Zrzur is an independent chat platform based on the open-source Stoat software (formerly Revolt), licensed under AGPL-3.0 or later. Zrzur is not affiliated with Stoat, stoat.chat or Revolt Platforms Ltd. Please do not report Zrzur issues to the Stoat team.
