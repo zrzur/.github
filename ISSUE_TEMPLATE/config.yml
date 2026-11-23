@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contact and security
+    url: https://zrzur.com/legal/contact
+    about: Questions, account help, or how to report a security problem privately.
+  - name: Report illegal content
+    url: https://zrzur.com/report
+    about: Report illegal content on Zrzur. Please do not use GitHub issues for this.
