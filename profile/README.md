@@ -53,6 +53,8 @@ Each has two branches: `main` is the released version, `beta` is what comes next
 
 Zrzur is a volunteer, open-source project. I build it in my free time, alongside school, and I pay for the servers, hosting and services out of my own pocket, with no salary or guaranteed income.
 
+I work from 6 am to 5 pm, then I have school until 10 pm. Zrzur gets the time that is left after that.
+
 So an update, a fix or a reply can sometimes take a while. That's not because Zrzur doesn't matter to me. My time and resources are limited.
 
 Zrzur isn't a big company with a budget or a full-time team. It grows step by step, and I won't promise dates I can't keep.
@@ -64,6 +66,8 @@ Thank you to everyone who supports Zrzur by sharing it, suggesting ideas, report
 <p dir="rtl" align="right">زرزور مشروع تطوعي مفتوح المصدر، وأنا عم أشتغل عليه بوقتي وجهدي وعم أتحمّل تكاليف تشغيله من مصروفي الشخصي.</p>
 
 <p dir="rtl" align="right">أنا لسه عندي مدرسة ودراسة ومسؤوليات يومية، ومع هيك بحاول أخصص أكبر قدر ممكن من وقت فراغي لتطوير زرزور. أحياناً بشتغل عليه بعد المدرسة ولساعات متأخرة من الليل، وحتى بأيام العطل والإجازات بقضي جزء كبير من وقتي بتطوير المنصة وإصلاح المشاكل وتحسين الخدمات.</p>
+
+<p dir="rtl" align="right">أنا عم إشتغل من الساعة 6 الصبح للساعة 5 العصر، وبعدين عندي مدرسة لحد الساعة 10 بالليل، وزرزور بشتغل عليه بالوقت اللي بيضل بعد هيك.</p>
 
 <p dir="rtl" align="right">والموضوع مو بس وقت وتعب. أنا كمان عم أدفع من جيبتي تكاليف الخوادم (Servers) والاستضافة والخدمات اللازمة حتى يضل زرزور شغّال ومتاح للمستخدمين. يعني المشروع عم ياخد مني وقت وجهد ومصاريف شخصية، وكل هالشي عم أعمله بشكل تطوعي، مو مقابل راتب أو مردود مالي مضمون.</p>
 
