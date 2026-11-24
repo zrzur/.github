@@ -4,7 +4,7 @@
 
 ## Checklist
 
-- [ ] Opened from a branch, into `main`
+- [ ] Opened from a branch, into `beta`
 - [ ] No secrets, `.env` files, logs or build output in the change
 - [ ] New interface text is added in Arabic, English and German
 - [ ] Upstream copyright notices are kept
